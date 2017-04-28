@@ -4,6 +4,7 @@ $(document).ready(function() {
     var peoplePerson = $("#peoplePerson").val();
     var personalityType = $("#personalityType").val();
     var corporations = $("#corporations").val();
+    var popular = $("#popular").val();
     debugger;
     $(".user").append(userInput);
 
