@@ -1,3 +1,7 @@
 #recommendationStory {
   display: none;
 }
+
+.btn {
+  margin-top: 5px;
+}
