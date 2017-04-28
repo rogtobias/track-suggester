@@ -7,6 +7,7 @@ $(document).ready(function() {
     var corporations = $("#corporations").val();
     var popular = $("#popular").val();
     var appType = $("#appType").val();
+    
 
     //back end logic
     if (personalityType === "realistic") {
